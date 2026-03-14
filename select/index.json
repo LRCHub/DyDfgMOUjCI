@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "bad guy",
+  "base_artist": "ビリー・アイリッシュ",
+  "createdAt": "2026-03-14T16:13:21.326715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Bad_Guy_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Good & the Bad Guy",
+      "artist": "My Brightest Diamond",
+      "has_synced": true,
+      "path": "select/02_The_Good_&_the_Bad_Guy_My_Brightest_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Good and the Bad Guy (Siamese Sisters)",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/03_The_Good_and_the_Bad_Guy_(Siamese_Sisters)_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/04_Bad_Guy_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Guy Now",
+      "artist": "Erlend Øye",
+      "has_synced": true,
+      "path": "select/05_Bad_Guy_Now_Erlend_Øye.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr Bad Guy",
+      "artist": "Freddie Mercury",
+      "has_synced": true,
+      "path": "select/06_Mr_Bad_Guy_Freddie_Mercury.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Bad Guy",
+      "artist": "Freddie Mercury",
+      "has_synced": true,
+      "path": "select/07_Mr._Bad_Guy_Freddie_Mercury.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Bad Guy - Special Edition",
+      "artist": "Freddie Mercury",
+      "has_synced": false,
+      "path": "select/08_Mr._Bad_Guy_-_Special_Edition_Freddie_Mercury.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/09_bad_guy_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/10_bad_guy_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ariana Savalas",
+      "has_synced": true,
+      "path": "select/11_Bad_Guy_Scott_Bradlee's_Postmodern_Jukebox_feat._Ariana_Savalas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Hatchie",
+      "has_synced": true,
+      "path": "select/12_Bad_Guy_Hatchie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Bad Guy",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/13_The_Bad_Guy_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "21 Savage feat. Metro Boomin",
+      "has_synced": true,
+      "path": "select/14_Bad_Guy_21_Savage_feat._Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "21 Savage & Metro Boomin",
+      "has_synced": true,
+      "path": "select/15_Bad_Guy_21_Savage_&_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Set It Off",
+      "has_synced": true,
+      "path": "select/16_Bad_Guy_Set_It_Off.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Guy",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/17_Bad_Guy_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Say Hi To The Bad Guy",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/18_Say_Hi_To_The_Bad_Guy_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/19_bad_guy_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_bad_guy_Billie_Eilish.txt"
+    }
+  ]
+}
